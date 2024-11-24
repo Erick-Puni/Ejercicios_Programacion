@@ -53,7 +53,6 @@
   - [Descargar JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
 - Utilizar uno de los siguientes IDEs recomendados:  
   - [Eclipse](https://www.eclipse.org/downloads/)  
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)  
   - [NetBeans](https://netbeans.apache.org/)  
 
 #### **Python**  
@@ -78,5 +77,5 @@ Hecho con 💻 y ☕ por **Erick Ángel Punina Quisintuña** ✨
 
 <p align="center">🌟 ¡Gracias por visitar este repositorio! 🌟</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" alt="Gracias GIF" width="300">
+
 </p>
