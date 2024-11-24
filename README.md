@@ -1,4 +1,4 @@
-# <h1 align="center">🌟 Ejercicios de Programación 🌟</h1>  
+# <h1 align="center"> 💻 Ejercicios de Programación 💻 </h1>  
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy"
@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  Este repositorio contiene ejercicios prácticos para reforzar conceptos de programación en **Java** ☕ y **Python** 🐍.  
-  Están organizados por categorías y niveles de dificultad para facilitar el aprendizaje.  
+  Este repositorio contiene 30 ejercicios prácticos para reforzar conceptos de programación en Java ☕ y Python 🐍.  
+  Están organizados por categorías y niveles de dificultad.  
 </p>
 
 
-## 🚀 **Lenguajes Incluidos**
+## 🚀 **Algunos Ejercicios Incluidos**
 
 ### ☕ **Java**
 1. **Condicionales:**
@@ -31,16 +31,18 @@
 ### 🐍 **Python**
 1. **Condicionales:**
    - Intermedios:
-     - 🧮 `CalculadoraBasica.py`: Realiza operaciones básicas (+, -, *, /).
-     - 🔐 `ValidarContrasenas.py`: Valida una contraseña en tres intentos.
+     - 🧮 `calculadora_basica.py`: Realiza operaciones básicas (+, -, *, /).
+     - 🔐 `validar_contrasenas.py`: Valida una contraseña en tres intentos.
 2. **Bucles:**
    - Intermedios:
-     - 🌟 `Factorial.py`: Calcula el factorial de un número ingresado.
-     - 🔄 `NumerosPrimos.py`: Encuentra números primos entre 1 y 50.
+     - 🌟 `numero_factorial.py`: Calcula el factorial de un número ingresado.
+     - 🔄 `Numeros_primos.py`: Encuentra números primos entre 1 y 50.
 3. **Funciones:**
    - Intermedios:
      - 👋 `SaludoPersonalizado.py`: Devuelve un saludo personalizado.
      - ⚪ `CalcularAreaCirculo.py`: Calcula el área de un círculo.
+    
+
 
 ---
 
@@ -49,17 +51,15 @@
 ### Para ejecutar los ejercicios:
 
 #### **Java**  
-- Instalar la última versión de Java Development Kit (JDK).  
-  - [Descargar JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
-- Utilizar uno de los siguientes IDEs recomendados:  
-  - [Eclipse](https://www.eclipse.org/downloads/)  
-  - [NetBeans](https://netbeans.apache.org/)  
+- Instalar Java Development Kit (JDK) 17.  
+  - [Descargar JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)  
+- Utilizar el siguientes IDE:  
+  - [Apache NetBeans 17](https://netbeans.apache.org/front/main/download/nb17/)  
 
 #### **Python**  
-- Instalar la última versión de Python (3.x).  
+- Instalar Python (3.x).  
   - [Descargar Python](https://www.python.org/downloads/)  
-- Utilizar uno de los siguientes editores o IDEs recomendados:  
-  - [PyCharm](https://www.jetbrains.com/pycharm/)  
+- Utilizar el siguientes editores:  
   - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)  
 - Alternativamente, los scripts pueden ejecutarse directamente en la terminal:  
   ```bash
